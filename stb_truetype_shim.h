@@ -1,7 +1,7 @@
 #include "pop_trig.h"
 
 #define TAU 6.2831853f
-#define PI  3.14159265
+#define PI  3.1415926f
 
 // Return the largest integer <= x
 int _floor(float x) {
